@@ -1,0 +1,2 @@
+2023-03-26T04:32:34+00:00 CRITICAL Out of memory (allocated 92274688 bytes) (tried to allocate 552960 bytes) en C:\xampp\htdocs\wordpress\wp-includes\class-wpdb.php en la línea 2153
+
